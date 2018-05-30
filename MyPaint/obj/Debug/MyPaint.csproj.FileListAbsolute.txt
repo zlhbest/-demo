@@ -1,0 +1,56 @@
+E:\shaopengmingcs\师专c#例子\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+E:\shaopengmingcs\师专c#例子\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+E:\shaopengmingcs\师专c#例子\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+E:\shaopengmingcs\师专c#例子\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+E:\shaopengmingcs\师专c#例子\MyPaint\MyPaint\obj\Debug\ResolveAssemblyReference.cache
+E:\shaopengmingcs\师专c#例子\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+E:\shaopengmingcs\师专c#例子\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+E:\shaopengmingcs\师专c#例子\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+E:\《从入门到精通录像》\C#录像\新建文件夹\简易画图程序\MyPaint\obj\Debug\MyPaint.exe
+E:\《从入门到精通录像》\C#录像\新建文件夹\简易画图程序\MyPaint\obj\Debug\MyPaint.pdb
+D:\TDDOWNLOAD\c# 源码大放送\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.exe
+D:\TDDOWNLOAD\c# 源码大放送\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.pdb
+D:\TDDOWNLOAD\c# 源码大放送\源码09 简易画图程序\MyPaint\bin\Debug\MyPaint.exe
+D:\TDDOWNLOAD\c# 源码大放送\源码09 简易画图程序\MyPaint\bin\Debug\MyPaint.pdb
+D:\TDDOWNLOAD\c# 源码大放送\源码09 简易画图程序\MyPaint\obj\Debug\ResolveAssemblyReference.cache
+D:\TDDOWNLOAD\c# 源码大放送\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.Form1.resources
+D:\TDDOWNLOAD\c# 源码大放送\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\TDDOWNLOAD\c# 源码大放送\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.Douglas_Peuker.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.Form1.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.Form2.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.Form3.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.waijieyuan.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\bin\Debug\MyPaint.exe
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\bin\Debug\MyPaint.pdb
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.exe
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.pdb
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.TIN.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.fenxing.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.neiqieyuan.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.pointwhere.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.Meanclustering.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.tubao.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\MyPaint\obj\Debug\MyPaint.tubaop.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.exe
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.pdb
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\bin\Debug\MyPaint.exe
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\bin\Debug\MyPaint.pdb
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.Douglas_Peuker.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.fenxing.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.Form1.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.Form2.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.Form3.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.Meanclustering.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.neiqieyuan.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.pointwhere.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.TIN.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.tubao.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.tubaop.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.waijieyuan.resources
+F:\code\源码09 简易画图程序\源码09 简易画图程序\mypoint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache

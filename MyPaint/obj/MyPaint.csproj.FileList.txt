@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyPaint.Form1.resources
+obj\Debug\MyPaint.Properties.Resources.resources
+obj\Debug\MyPaint.csproj.GenerateResource.Cache
+bin\Debug\MyPaint.exe
+bin\Debug\MyPaint.pdb
+obj\Debug\MyPaint.exe
+obj\Debug\MyPaint.pdb
